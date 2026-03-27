@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastSync": 1774624364656,
+  "lastSync": 1774628256473,
   "folders": [
     {
       "id": "root",
@@ -22,7 +22,7 @@
       "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
       "filePath": "New Folder/hello world.md",
       "createdAt": 1774595331905,
-      "updatedAt": 1774623708250,
+      "updatedAt": 1774628175746,
       "images": [],
       "tags": []
     },
@@ -42,7 +42,7 @@
       "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
       "filePath": "New Folder/Untitled 1.md",
       "createdAt": 1774604656752,
-      "updatedAt": 1774623704183,
+      "updatedAt": 1774627870667,
       "images": [],
       "tags": []
     },
@@ -52,7 +52,7 @@
       "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
       "filePath": "New Folder/Untitled Note.md",
       "createdAt": 1774612790287,
-      "updatedAt": 1774621863759,
+      "updatedAt": 1774625714128,
       "images": [],
       "tags": []
     },
@@ -69,10 +69,10 @@
     {
       "id": "334f3176-323e-4ee5-aa41-e7e84dc3e8b2",
       "title": "Untitled Note",
-      "folderId": "root",
-      "filePath": "Untitled Note.md",
+      "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
+      "filePath": "New Folder/Untitled Note.md",
       "createdAt": 1774623759997,
-      "updatedAt": 1774624258714,
+      "updatedAt": 1774626069415,
       "images": [],
       "tags": []
     }
