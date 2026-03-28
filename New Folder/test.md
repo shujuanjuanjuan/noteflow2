@@ -1,1 +1,0 @@
-<h1>New Note</h1><h2>Start writing here...</h2><p>njnk</p><p>jknkj</p><p>jkj</p><h3>serw</h3><p></p>
