@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastSync": 1774708264178,
+  "lastSync": 1774708877130,
   "folders": [
     {
       "id": "root",
@@ -17,16 +17,6 @@
   ],
   "notes": [
     {
-      "id": "7554ab9a-0a3d-474f-934e-ba6e8745ef2c",
-      "title": "Untitled Note",
-      "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
-      "filePath": "New Folder/Untitled Note.md",
-      "createdAt": 1774707961477,
-      "updatedAt": 1774708140153,
-      "images": [],
-      "tags": []
-    },
-    {
       "id": "43ed4bde-abec-4a60-b952-ed2c4e2249cd",
       "title": "Untitled Note",
       "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
@@ -37,12 +27,12 @@
       "tags": []
     },
     {
-      "id": "519ab55f-c69c-4e9e-97e4-95c907f5ca31",
-      "title": "hello ",
+      "id": "092606fb-ecca-4c83-ae5f-a67f0b9f92b5",
+      "title": "hello",
       "folderId": "root",
       "filePath": "hello.md",
-      "createdAt": 1774708182926,
-      "updatedAt": 1774708196352,
+      "createdAt": 1774708796757,
+      "updatedAt": 1774708868054,
       "images": [],
       "tags": []
     }
