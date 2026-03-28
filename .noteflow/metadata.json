@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastSync": 1774708877130,
+  "lastSync": 1774709202308,
   "folders": [
     {
       "id": "root",
@@ -22,17 +22,27 @@
       "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
       "filePath": "New Folder/Untitled Note.md",
       "createdAt": 1774708141757,
-      "updatedAt": 1774708145064,
+      "updatedAt": 1774709077182,
       "images": [],
       "tags": []
     },
     {
-      "id": "092606fb-ecca-4c83-ae5f-a67f0b9f92b5",
-      "title": "hello",
+      "id": "ce5cb799-db3c-4580-9686-eccfc02ec3ae",
+      "title": "你好",
+      "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
+      "filePath": "New Folder/你好.md",
+      "createdAt": 1774708938639,
+      "updatedAt": 1774709045142,
+      "images": [],
+      "tags": []
+    },
+    {
+      "id": "c3cd1008-81bc-4a2d-ae9c-c202d9d44386",
+      "title": "nihaoya 你好呀",
       "folderId": "root",
-      "filePath": "hello.md",
-      "createdAt": 1774708796757,
-      "updatedAt": 1774708868054,
+      "filePath": "nihaoya 你好呀.md",
+      "createdAt": 1774709077196,
+      "updatedAt": 1774709189666,
       "images": [],
       "tags": []
     }
