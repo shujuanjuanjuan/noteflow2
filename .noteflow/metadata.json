@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastSync": 1774707703040,
+  "lastSync": 1774707823543,
   "folders": [
     {
       "id": "root",
@@ -13,6 +13,12 @@
       "name": "New Folder",
       "parentId": "root",
       "createdAt": 1774597647062
+    },
+    {
+      "id": "c03db5dd-a9fc-453a-a2dc-fb07a7821087",
+      "name": "New Folder",
+      "parentId": "6a07008f-750e-48b3-907d-158985c331f1",
+      "createdAt": 1774707756145
     }
   ],
   "notes": [
@@ -27,22 +33,22 @@
       "tags": []
     },
     {
-      "id": "c5bd68d1-9f9c-4a1c-80c0-2c0ac51eb751",
-      "title": "Untitled 1",
+      "id": "f4e2cc5e-1918-4368-a816-5e70718bbe53",
+      "title": "Untitled Note",
       "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
-      "filePath": "New Folder/Untitled 1.md",
-      "createdAt": 1774604656752,
-      "updatedAt": 1774667386341,
+      "filePath": "New Folder/Untitled Note.md",
+      "createdAt": 1774707749037,
+      "updatedAt": 1774707752338,
       "images": [],
       "tags": []
     },
     {
-      "id": "eff4ade1-4245-4d8c-887e-73770e3f25e9",
+      "id": "30872118-5b14-4960-8eb3-ff83fb903fb2",
       "title": "Untitled Note",
       "folderId": "6a07008f-750e-48b3-907d-158985c331f1",
       "filePath": "New Folder/Untitled Note.md",
-      "createdAt": 1774612790287,
-      "updatedAt": 1774625714128,
+      "createdAt": 1774707754852,
+      "updatedAt": 1774707754852,
       "images": [],
       "tags": []
     }
